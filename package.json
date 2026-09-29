@@ -1,0 +1,36 @@
+{
+  "name": "tactile-odometer",
+  "version": "1.0.0",
+  "description": "A mechanical drum counter for the web that carries like the real thing: 1,099 to 1,100 rolls three drums together. Vanilla JS, no dependencies.",
+  "type": "module",
+  "main": "./odometer.mjs",
+  "exports": {
+    ".": "./odometer.mjs",
+    "./odometer.css": "./odometer.css",
+    "./big-shoulders-bold.woff2": "./big-shoulders-bold.woff2"
+  },
+  "files": [
+    "odometer.mjs",
+    "odometer.css",
+    "big-shoulders-bold.woff2",
+    "BigShoulders-OFL.txt"
+  ],
+  "sideEffects": ["*.css"],
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": ["odometer", "counter", "number-animation", "rolling-digits", "ticker", "drum-counter", "vanilla-js", "no-dependencies"],
+  "license": "MIT",
+  "author": "Ciprian Titire (https://titi.re)",
+  "homepage": "https://tactile-ui.me/objects/odometer",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cipriantitire/tactile-odometer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cipriantitire/tactile-odometer/issues"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
