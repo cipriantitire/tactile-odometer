@@ -11,7 +11,7 @@ Vanilla ES module and CSS, no dependencies, no build step. MIT.
 
 **[Play with it →](https://tactile-ui.me/objects/odometer)**
 
-<!-- demo gif: 1,099 → 1,100, then +37 -->
+![1,099 rolling to 1,100: the last three drums carry together](demo.gif)
 
 ## Install
 
