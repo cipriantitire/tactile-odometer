@@ -51,6 +51,20 @@ Or straight from a CDN:
 It works in React, Vue, Svelte or anything else that can hand it an element:
 create it in an effect or `onMount`, call `destroy()` on unmount.
 
+### As a custom element
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tactile-odometer/odometer.css">
+<script type="module" src="https://cdn.jsdelivr.net/npm/tactile-odometer/element.mjs"></script>
+
+<tactile-odometer value="1099" digits="4" finish="brass" style="width:480px;height:160px"></tactile-odometer>
+```
+
+Every option below is an attribute of the same name (`maxSpin` is `max-spin`).
+Set `el.value = 1100` or the `value` attribute to roll it; `el.odometer` is the
+Odometer itself. It's made when the element joins the page and destroyed when
+it leaves.
+
 ### Options
 
 | Option | Default | What it does |

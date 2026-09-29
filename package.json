@@ -7,10 +7,12 @@
   "exports": {
     ".": "./odometer.mjs",
     "./odometer.css": "./odometer.css",
-    "./big-shoulders-bold.woff2": "./big-shoulders-bold.woff2"
+    "./big-shoulders-bold.woff2": "./big-shoulders-bold.woff2",
+    "./element": "./element.mjs"
   },
   "files": [
     "odometer.mjs",
+    "element.mjs",
     "odometer.css",
     "big-shoulders-bold.woff2",
     "BigShoulders-OFL.txt",
@@ -30,7 +32,9 @@
     "ticker",
     "drum-counter",
     "vanilla-js",
-    "no-dependencies"
+    "no-dependencies",
+    "custom-element",
+    "web-component"
   ],
   "license": "MIT",
   "author": "Ciprian Titire (https://titi.re)",
