@@ -13,13 +13,25 @@
     "odometer.mjs",
     "odometer.css",
     "big-shoulders-bold.woff2",
-    "BigShoulders-OFL.txt"
+    "BigShoulders-OFL.txt",
+    "README.md"
   ],
-  "sideEffects": ["*.css"],
+  "sideEffects": [
+    "*.css"
+  ],
   "scripts": {
     "test": "node --test"
   },
-  "keywords": ["odometer", "counter", "number-animation", "rolling-digits", "ticker", "drum-counter", "vanilla-js", "no-dependencies"],
+  "keywords": [
+    "odometer",
+    "counter",
+    "number-animation",
+    "rolling-digits",
+    "ticker",
+    "drum-counter",
+    "vanilla-js",
+    "no-dependencies"
+  ],
   "license": "MIT",
   "author": "Ciprian Titire (https://titi.re)",
   "homepage": "https://tactile-ui.me/objects/odometer",
