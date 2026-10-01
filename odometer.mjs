@@ -337,7 +337,7 @@ export const FINISHES = Object.freeze({
   brass: Object.freeze({ drum: '#b48a3a', figure: '#1f1507', plate: 'blackened', gloss: 0.55, tint: '255, 236, 190' }),
 });
 
-export const SIGNAL = Object.freeze({ drum: '#e0482b', figure: '#fff3e6' });
+export const SIGNAL = Object.freeze({ drum: '#d93a2b', figure: '#fff3e6' });
 
 export const BEZELS = Object.freeze(['slot', 'cells', 'bare']);
 export const REDS = Object.freeze(['none', 'last', 'decimals']);
