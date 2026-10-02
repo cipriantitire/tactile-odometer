@@ -38,7 +38,7 @@
   ],
   "license": "MIT",
   "author": "Ciprian Titire (https://titi.re)",
-  "homepage": "https://tactile-ui.me/objects/odometer",
+  "homepage": "https://tactileui.dev/objects/odometer",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cipriantitire/tactile-odometer.git"

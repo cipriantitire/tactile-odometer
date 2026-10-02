@@ -9,7 +9,7 @@ nothing carries. This one does.
 
 Vanilla ES module and CSS, no dependencies, no build step. MIT.
 
-**[Play with it →](https://tactile-ui.me/objects/odometer)**
+**[Play with it →](https://tactileui.dev/objects/odometer)**
 
 ![1,099 rolling to 1,100: the last three drums carry together](demo.gif)
 
@@ -177,7 +177,7 @@ tested in Node with `node:test`.
 
 ## Where it's from
 
-It's the free piece of [Tactile UI](https://tactile-ui.me), a library of
+It's the free piece of [Tactile UI](https://tactileui.dev), a library of
 interface objects that work like the hardware they're drawn from: a pin
 screen, a Chladni plate, a detent dial, a cassette. The rest are paid; this
 one is MIT, for everyone.
